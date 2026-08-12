@@ -41,7 +41,7 @@ body
   margin-top:25px;
 } buttons button
 {
-  ladding:10px 18px;
+  padding:10px 18px;
   margin:5px;
   border:1px solid black;
   border-radius:4px;
@@ -63,7 +63,7 @@ body
 .bottom-links
 {
   display:flex;
-  gap:20px;
+  justify-content:space-between;
 }
 .bottom-links a
 {
